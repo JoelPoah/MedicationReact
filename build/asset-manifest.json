@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/JoelPoah/FirstReact.github.io.git/static/css/main.e6cdf681.chunk.css",
+    "main.js": "/JoelPoah/FirstReact.github.io.git/static/js/main.f84ab9a9.chunk.js",
+    "main.js.map": "/JoelPoah/FirstReact.github.io.git/static/js/main.f84ab9a9.chunk.js.map",
+    "runtime-main.js": "/JoelPoah/FirstReact.github.io.git/static/js/runtime-main.f5c997cd.js",
+    "runtime-main.js.map": "/JoelPoah/FirstReact.github.io.git/static/js/runtime-main.f5c997cd.js.map",
+    "static/js/2.1d916e84.chunk.js": "/JoelPoah/FirstReact.github.io.git/static/js/2.1d916e84.chunk.js",
+    "static/js/2.1d916e84.chunk.js.map": "/JoelPoah/FirstReact.github.io.git/static/js/2.1d916e84.chunk.js.map",
+    "index.html": "/JoelPoah/FirstReact.github.io.git/index.html",
+    "precache-manifest.c3f2160cd37ed1dce5147569ec934c4f.js": "/JoelPoah/FirstReact.github.io.git/precache-manifest.c3f2160cd37ed1dce5147569ec934c4f.js",
+    "service-worker.js": "/JoelPoah/FirstReact.github.io.git/service-worker.js",
+    "static/css/main.e6cdf681.chunk.css.map": "/JoelPoah/FirstReact.github.io.git/static/css/main.e6cdf681.chunk.css.map",
+    "static/js/2.1d916e84.chunk.js.LICENSE.txt": "/JoelPoah/FirstReact.github.io.git/static/js/2.1d916e84.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f5c997cd.js",
+    "static/js/2.1d916e84.chunk.js",
+    "static/css/main.e6cdf681.chunk.css",
+    "static/js/main.f84ab9a9.chunk.js"
+  ]
+}
