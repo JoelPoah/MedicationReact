@@ -5,24 +5,30 @@ import CardItem from './CardItem';
 function Cards() {
   return (
     <div className='cards'>
-      <h1>Check out these EPIC Destinations!</h1>
+      <h1>Fill in those tubes!</h1>
       <div className='cards__container'>
         <div className='cards__wrapper'>
           <ul className='cards__items'>
             <CardItem
               src='images/img-9.jpg'
-              text='Explore the hidden waterfall deep inside the Amazon Jungle'
+              text='Take this high blood sugar medicine before breakfast each day'
               label='Adventure'
               path='/services'
             />
             <CardItem
               src='images/img-2.jpg'
-              text='Travel through the Islands of Bali in a Private Cruise'
+              text='Take this high blood sugar medicine after lunch each day'
               label='Luxury'
               path='/services'
             />
+            <CardItem
+              src='images/img-3.jpg'
+              text='Take this high cholesterol medicine before bed each day'
+              label='Mystery'
+              path='/services'
+            />
           </ul>
-          <ul className='cards__items'>
+          {/* <ul className='cards__items'>
             <CardItem
               src='images/img-3.jpg'
               text='Set Sail in the Atlantic Ocean visiting Uncharted Waters'
@@ -41,7 +47,9 @@ function Cards() {
               label='Adrenaline'
               path='/sign-up'
             />
-          </ul>
+            
+          </ul> */}
+          
         </div>
       </div>
     </div>
