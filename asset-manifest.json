@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/JoelPoah.github.io/MedicationReact.git/static/css/main.e6cdf681.chunk.css",
-    "main.js": "/JoelPoah.github.io/MedicationReact.git/static/js/main.f84ab9a9.chunk.js",
-    "main.js.map": "/JoelPoah.github.io/MedicationReact.git/static/js/main.f84ab9a9.chunk.js.map",
-    "runtime-main.js": "/JoelPoah.github.io/MedicationReact.git/static/js/runtime-main.5d975cd5.js",
-    "runtime-main.js.map": "/JoelPoah.github.io/MedicationReact.git/static/js/runtime-main.5d975cd5.js.map",
-    "static/js/2.1d916e84.chunk.js": "/JoelPoah.github.io/MedicationReact.git/static/js/2.1d916e84.chunk.js",
-    "static/js/2.1d916e84.chunk.js.map": "/JoelPoah.github.io/MedicationReact.git/static/js/2.1d916e84.chunk.js.map",
-    "index.html": "/JoelPoah.github.io/MedicationReact.git/index.html",
-    "precache-manifest.703aef3c6f158c98fe1ef3e63b14f1fe.js": "/JoelPoah.github.io/MedicationReact.git/precache-manifest.703aef3c6f158c98fe1ef3e63b14f1fe.js",
-    "service-worker.js": "/JoelPoah.github.io/MedicationReact.git/service-worker.js",
-    "static/css/main.e6cdf681.chunk.css.map": "/JoelPoah.github.io/MedicationReact.git/static/css/main.e6cdf681.chunk.css.map",
-    "static/js/2.1d916e84.chunk.js.LICENSE.txt": "/JoelPoah.github.io/MedicationReact.git/static/js/2.1d916e84.chunk.js.LICENSE.txt"
+    "main.css": "/JoelPoah.github.io/MedicationReact/static/css/main.e6cdf681.chunk.css",
+    "main.js": "/JoelPoah.github.io/MedicationReact/static/js/main.f84ab9a9.chunk.js",
+    "main.js.map": "/JoelPoah.github.io/MedicationReact/static/js/main.f84ab9a9.chunk.js.map",
+    "runtime-main.js": "/JoelPoah.github.io/MedicationReact/static/js/runtime-main.ce5aab86.js",
+    "runtime-main.js.map": "/JoelPoah.github.io/MedicationReact/static/js/runtime-main.ce5aab86.js.map",
+    "static/js/2.1d916e84.chunk.js": "/JoelPoah.github.io/MedicationReact/static/js/2.1d916e84.chunk.js",
+    "static/js/2.1d916e84.chunk.js.map": "/JoelPoah.github.io/MedicationReact/static/js/2.1d916e84.chunk.js.map",
+    "index.html": "/JoelPoah.github.io/MedicationReact/index.html",
+    "precache-manifest.4a7b30d372020924e8c1f0d72cec48f2.js": "/JoelPoah.github.io/MedicationReact/precache-manifest.4a7b30d372020924e8c1f0d72cec48f2.js",
+    "service-worker.js": "/JoelPoah.github.io/MedicationReact/service-worker.js",
+    "static/css/main.e6cdf681.chunk.css.map": "/JoelPoah.github.io/MedicationReact/static/css/main.e6cdf681.chunk.css.map",
+    "static/js/2.1d916e84.chunk.js.LICENSE.txt": "/JoelPoah.github.io/MedicationReact/static/js/2.1d916e84.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.5d975cd5.js",
+    "static/js/runtime-main.ce5aab86.js",
     "static/js/2.1d916e84.chunk.js",
     "static/css/main.e6cdf681.chunk.css",
     "static/js/main.f84ab9a9.chunk.js"
