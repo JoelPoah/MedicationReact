@@ -12,7 +12,7 @@ function HeroSection() {
       <h1>Medication</h1>
       <p>What are you waiting for?</p>
       <div className='hero-btns'>
-      <a href="kard"></a>
+      <a href="kard">adda</a>
         <Button 
           href="myDropdown"
           className='btns'
