@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/MedicationReact/static/css/main.e6cdf681.chunk.css",
+    "main.js": "/MedicationReact/static/js/main.f84ab9a9.chunk.js",
+    "main.js.map": "/MedicationReact/static/js/main.f84ab9a9.chunk.js.map",
+    "runtime-main.js": "/MedicationReact/static/js/runtime-main.76d2235e.js",
+    "runtime-main.js.map": "/MedicationReact/static/js/runtime-main.76d2235e.js.map",
+    "static/js/2.1d916e84.chunk.js": "/MedicationReact/static/js/2.1d916e84.chunk.js",
+    "static/js/2.1d916e84.chunk.js.map": "/MedicationReact/static/js/2.1d916e84.chunk.js.map",
+    "index.html": "/MedicationReact/index.html",
+    "precache-manifest.d42511bbf7275564caaba339c396d566.js": "/MedicationReact/precache-manifest.d42511bbf7275564caaba339c396d566.js",
+    "service-worker.js": "/MedicationReact/service-worker.js",
+    "static/css/main.e6cdf681.chunk.css.map": "/MedicationReact/static/css/main.e6cdf681.chunk.css.map",
+    "static/js/2.1d916e84.chunk.js.LICENSE.txt": "/MedicationReact/static/js/2.1d916e84.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.76d2235e.js",
+    "static/js/2.1d916e84.chunk.js",
+    "static/css/main.e6cdf681.chunk.css",
+    "static/js/main.f84ab9a9.chunk.js"
+  ]
+}
